@@ -1,16 +1,7 @@
-# bo_yi_bo
+# bo_yi_bo 搏一搏
 
-A new Flutter project.
+搏一搏单车变摩托，随机生成双色球的号码，万一就中了呢~
 
-## Getting Started
+## 关于想法
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+就你这样想，你存了1000w的小钱钱，但是你把密码给忘了，现在有个机会，花2块钱试一下密码，万一你就试出来了呢！
